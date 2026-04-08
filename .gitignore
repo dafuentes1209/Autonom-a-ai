@@ -1,0 +1,9 @@
+﻿personal/
+inbox/
+templates/
+.obsidian/workspace.json
+.obsidian/cache/
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
